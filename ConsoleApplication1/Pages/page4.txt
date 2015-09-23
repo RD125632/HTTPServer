@@ -1,0 +1,14 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<audio autoplay>
+  <source src="http://s3.argim.net/files/r/spongebob_the_big_laugh.mp3" type="audio/mp3">
+</audio>
+    <div style=" position:fixed; top:50%; left:50%; margin-top:-150px; margin-left:-200px;">
+        <img src="https://media0.giphy.com/media/cYVpEseXlkS1q/200.gif" style="width:400px; height:300px;">
+		<a href="http://localhost/c/page1">reset</a>
+    </div>
+</body>
+</html>

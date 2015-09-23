@@ -1,0 +1,15 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+    <div style=" position:fixed; top:50%; left:50%; margin-top:-150px; margin-left:-200px;">
+        <img src="https://media.giphy.com/media/gaS3J1JB4NCaA/giphy.gif" style="width:400px; height:300px;">
+        <a href="http://localhost/c/page4">Next</a>
+    </div>
+
+<audio autoplay>
+  <source preload="auto" src="http://mobcup.co/dl/5EF93BF4F7807BF22E5D5FA82ABA158FADD47E68B650501FBA605B6923852B5AF015F10E17A8EFAE9011082FBF875C860C3D73DFB6D42E49879D02434A7CBB8C825D37F0BD392515E075767C6F23761BBD5B188991FEE1E5" type="audio/mp3">
+</audio>
+</body>
+</html>

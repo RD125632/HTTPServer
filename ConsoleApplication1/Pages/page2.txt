@@ -1,0 +1,12 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+    <div style=" position:fixed; top:50%; left:50%; margin-top:-150px; margin-left:-200px;">
+        <img src="http://loredebacker.donboscohalle.net/websites/Tekenfilm/beeld/beeld4.jpg" style="width:400px; height:300px;">
+        <a href="http://localhost/c/page3">Next</a>
+    </div>
+
+</body>
+</html>
